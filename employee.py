@@ -1,4 +1,4 @@
-work_hours = [("ram", 50), ("ben", 30), ("rama", 60)]
+work_hours = [("ram", 45), ("ben", 33), ("rama", 56)]
 
 def employee_check(work_hours):
     currentmax = 0
